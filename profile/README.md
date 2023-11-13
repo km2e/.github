@@ -7,7 +7,7 @@ our teams brings better insurance knowledge into chatGPT by using insurance API 
 
 Hackathon Nov 2023 - we won the tech award. 
 
-Duw to privacy restrictions, our repos are all private. 
+Due to privacy restrictions, our repos are all private. 
 
 see our team
 
