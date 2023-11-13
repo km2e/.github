@@ -1,4 +1,4 @@
-# Koversations Modell Einsteck Einheit 🚀
+# KMEE (KM2E) Koversations Modell Einsteck Einheit 🚀
 or in english simply "chatGPT plugin"
 
 Happy hacking!
