@@ -5,6 +5,8 @@ Happy hacking!
 
 our teams brings better insurance knowledge into chatGPT by using insurance API and our famous B2C bot Ada with own content ans internal secure LLM. 
 
-hackathon Nov 2023 - we won the tech award. 
+Hackathon Nov 2023 - we won the tech award. 
 
-see our final pitch
+see our team
+
+![KMEE team](kmee-team.jpeg)
